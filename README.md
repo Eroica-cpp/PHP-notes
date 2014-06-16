@@ -1,7 +1,7 @@
 PHP notes
 ==============
 This repo contains codes and materials that I use to learn PHP.
-Simple demo will be show.
+Simple demos will be show.
 
 Reference
 --------------
